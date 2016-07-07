@@ -6,9 +6,9 @@ Proof of concept to connect SmallBiz Smart Contract to Bank-owned SBA loan origi
 
 ## Problem Statement
 
-Small business owners face a mountain of paperwork and duplicated information gathering and cretification to apply for small business loans
-As an Example the following is the official list of the documentation required as per the SBA.org
+Small business owners face a mountain of paperwork and duplicated information gathering and cretification to apply for small business loan for their business. 
 
+As an example, the following is the official list of the documentation required as per the SBA.org:  (https://www.sba.gov/loans-grants/see-what-sba-offers/sba-loan-programs/general-small-business-loans-7a/7a-loan-application-checklist)
 
 1.  SBA Loan Application – To begin the process, you will need to complete an SBA loan application form. Access the most current form here: Borrower Information Form - SBA Form 1919
 1.  Personal Background and Financial Statement – To assess your eligibility, the SBA also requires you complete the following forms:
