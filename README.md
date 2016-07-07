@@ -1,7 +1,7 @@
 # SmallBizID
 
 
-Proof of concept to connect SmallBiz Smart Contract to Bank SBA loan origination solution
+Proof of concept to connect SmallBiz Smart Contract to Bank-owned SBA loan origination solution
 
 
 ## Problem Statement
@@ -35,5 +35,20 @@ If You are Purchasing an Existing Business – The following information is need
 Identity and Business Identity are considered a major opportunity for blockchain technology. This solution will allow to store key business information in a secure smart contract regarding the Small Business and the Small Bsuiness Owner is able to transfer this information in a secure way to a Bank Owned Smart Contract to apply for a Small Business Loan.
 
 This solution connects the world of Smart Contracts to the current process of Smalll Business Loan applications. Based on the structured data received by the Bank, the Bank Small Business Team can now further automate the process for verifying of all the provided Loan application information and making a loan decision in a more standard and automated way.
+
+## Benefits
+
+* for Small Business owners: Enter once, apply multiple times to different SBA providers who are able to accept the Smart Contract Information
+* For Financial Institution: Low risk, low effort blockchain solution that generates immediate revenue for Financial Institutions (loan fees)
+* for governments: bootstraps digital ID's for Small Business on blockchain
+
+## SBALoan Bank Smart Contract
+
+To be completed
+
+## SBA Loan Module
+
+To be completed 
+
 
 
