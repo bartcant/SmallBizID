@@ -32,9 +32,10 @@ If You are Purchasing an Existing Business – The following information is need
 
 ## Solution
 
-Identity and Business Identity are considered a major opportunity for blockchain technology. This solution will allow to store key business information in a secure smart contract regarding the Small Business and the Small Bsuiness Owner is able to transfer this information in a secure way to a Bank Owned Smart Contract to apply for a Small Business Loan.
+Identity and Business Identity are considered a major opportunity for blockchain technology. This solution will allow for a Small business to store key business information in a secure smart contract regarding their Small Business.  the Small Bsuiness Owner is in control about all information which can be certified by different government agencies. The Small Business Owner is now able to transfer this information in a secure way to a Bank-Owned Smart Contract to apply for a Small Business Loan, based on the requirements from the Small Business Lender (traditional Bank or new Fintech provider) 
 
-This solution connects the world of Smart Contracts to the current process of Smalll Business Loan applications. Based on the structured data received by the Bank, the Bank Small Business Team can now further automate the process for verifying of all the provided Loan application information and making a loan decision in a more standard and automated way.
+This solution connects the world of "Smart Contracts"  to the current and existing process that exists of Smalll Business Loan applications. 
+Based on the structured data received by the Bank through the Smart contract, the Bank Small Business Team can now further automate the process for verifying of all the provided Loan application information and is able to make a loan decision in a more standard and automated way.
 
 ## Benefits
 
@@ -42,11 +43,11 @@ This solution connects the world of Smart Contracts to the current process of Sm
 * For Financial Institution: Low risk, low effort blockchain solution that generates immediate revenue for Financial Institutions (loan fees)
 * for governments: bootstraps digital ID's for Small Business on blockchain
 
-## SBALoan Bank Smart Contract
+## SBLoan Bank Smart Contract
 
 To be completed
 
-## SBA Loan Module
+## SB Loan Module
 
 To be completed 
 
