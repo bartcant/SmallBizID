@@ -1,7 +1,7 @@
 # SmallBizID
 
 
-Proof of concept to connect SmallBiz Smart Contract to Bank-owned SBA loan origination solution
+Proof of concept to connect SmallBizID Smart Contract to Bank-owned SBA loan origination solution
 
 
 ## Problem Statement
