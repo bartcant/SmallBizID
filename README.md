@@ -6,7 +6,7 @@ Proof of concept to connect SmallBizID Smart Contract to Bank-owned SBA loan ori
 
 ## Problem Statement
 
-Small business owners face a mountain of paperwork and duplicated information gathering and cretification to apply for small business loan for their business. 
+Small business owners face a mountain of paperwork and duplicated information gathering and certification to apply for small business loan for their business.
 
 As an example, the following is the official list of the documentation required as per the SBA.org:  (https://www.sba.gov/loans-grants/see-what-sba-offers/sba-loan-programs/general-small-business-loans-7a/7a-loan-application-checklist)
 
@@ -32,9 +32,9 @@ If You are Purchasing an Existing Business – The following information is need
 
 ## Solution
 
-Identity and Business Identity are considered a major opportunity for blockchain technology. This solution will allow for a Small business to store key business information in a secure smart contract regarding their Small Business.  the Small Bsuiness Owner is in control about all information which can be certified by different government agencies. The Small Business Owner is now able to transfer this information in a secure way to a Bank-Owned Smart Contract to apply for a Small Business Loan, based on the requirements from the Small Business Lender (traditional Bank or new Fintech provider) 
+Identity and Business Identity are considered a major opportunity for blockchain technology. This solution will allow for a Small business to store key business information in a secure smart contract regarding their Small Business.  the Small Business Owner is in control about all information which can be certified by different government agencies. The Small Business Owner is now able to transfer this information in a secure way to a Bank-Owned Smart Contract to apply for a Small Business Loan, based on the requirements from the Small Business Lender (traditional Bank or new Fintech provider)
 
-This solution connects the world of "Smart Contracts"  to the current and existing process that exists of Smalll Business Loan applications. 
+This solution connects the world of "Smart Contracts"  to the current and existing process that exists of Small Business Loan applications.
 Based on the structured data received by the Bank through the Smart contract, the Bank Small Business Team can now further automate the process for verifying of all the provided Loan application information and is able to make a loan decision in a more standard and automated way.
 
 ## Benefits
@@ -49,7 +49,4 @@ To be completed
 
 ## SB Loan Module
 
-To be completed 
-
-
-
+To be completed
